@@ -1,0 +1,16 @@
+# C / Build
+*.exe
+*.out
+*.obj
+*.o
+*.pdb
+
+# IDE
+.vs/
+*.vcxproj*
+*.sln
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
